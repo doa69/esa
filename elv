@@ -139,7 +139,7 @@ function DarkLib:Window()
 	MainFrame.Parent = DarkHubLib
 	MainFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 	MainFrame.Position = UDim2.new(0.330445558, 0, 0.330043852, 0)
-	MainFrame.Size = UDim2.new(0, 547, 0, 341)
+	MainFrame.Size = UDim2.new(0, 547, 0, 800)
 
 	MainFrameUICorner.CornerRadius = UDim.new(0, 11)
 	MainFrameUICorner.Name = "MainFrameUICorner"
